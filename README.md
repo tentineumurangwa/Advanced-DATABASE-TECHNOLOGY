@@ -1,1 +1,0 @@
-This system helps authorities and recycling companies track waste collection, processing, and disposal activities. It manages data on collectors, clients, routes, waste types, and plants to ensure transparency and efficiency.
